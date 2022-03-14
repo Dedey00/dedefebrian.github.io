@@ -1,0 +1,32 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: white;
+  padding: bottom 0;
+}
+#photo {
+  padding-top: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: whitesmoke;
+}
+h2 {
+  font-size: 30px;
+  padding-bottom: 1rem;
+}
+#introducing {
+  background-color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.col-md-4 {
+  text-align: center;
+  font-size: medium;
+  font-family: serif;
+  font-weight: bold;
+}
+.form-label {
+  margin-right: 100%;
+}
+.footer {
+  margin-bottom: 50px;
+  padding-bottom: 50px;
+}
